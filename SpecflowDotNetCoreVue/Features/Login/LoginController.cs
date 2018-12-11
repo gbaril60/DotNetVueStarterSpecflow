@@ -11,5 +11,12 @@ namespace SpecflowDotNetCoreVue.Features.Login
     [ApiController]
     public class LoginController : ControllerBase
     {
+        public LoginController() { }
+
+        [HttpGet]
+        public IActionResult LogIn(int salesId)
+        {
+            return Ok();
+        }
     }
 }
