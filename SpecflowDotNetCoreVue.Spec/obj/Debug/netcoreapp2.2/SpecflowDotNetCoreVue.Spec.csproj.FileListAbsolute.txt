@@ -4,3 +4,9 @@ C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\ob
 C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.AssemblyInfoInputs.cache
 C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.AssemblyInfo.cs
 C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.csprojAssemblyReference.cache
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.runtimeconfig.json
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.runtimeconfig.dev.json
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.pdb
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.dll
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.pdb
