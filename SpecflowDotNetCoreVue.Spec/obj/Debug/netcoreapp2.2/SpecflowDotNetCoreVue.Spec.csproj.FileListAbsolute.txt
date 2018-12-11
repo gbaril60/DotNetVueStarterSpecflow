@@ -1,0 +1,6 @@
+C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.deps.json
+C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.dll
+C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.csproj.CoreCompileInputs.cache
+C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.AssemblyInfoInputs.cache
+C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.AssemblyInfo.cs
+C:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Spec\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Spec.csprojAssemblyReference.cache

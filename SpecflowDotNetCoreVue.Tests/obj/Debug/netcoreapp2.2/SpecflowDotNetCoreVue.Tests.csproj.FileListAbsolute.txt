@@ -1,0 +1,14 @@
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.deps.json
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.runtimeconfig.json
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.runtimeconfig.dev.json
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.dll
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\bin\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.pdb
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.csprojAssemblyReference.cache
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.csproj.CoreCompileInputs.cache
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.AssemblyInfoInputs.cache
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.AssemblyInfo.cs
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.dll
+c:\Users\gbaril\source\repos\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.Tests\obj\Debug\netcoreapp2.2\SpecflowDotNetCoreVue.Tests.pdb
