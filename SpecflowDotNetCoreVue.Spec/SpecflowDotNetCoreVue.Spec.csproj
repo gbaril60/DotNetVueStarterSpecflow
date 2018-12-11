@@ -10,4 +10,8 @@
     <PackageReference Include="SpecFlow.xUnit" Version="3.0.155-beta" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SpecflowDotNetCoreVue\SpecflowDotNetCoreVue.csproj" />
+  </ItemGroup>
+
 </Project>
