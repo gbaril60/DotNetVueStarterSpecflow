@@ -9403,11 +9403,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.Spec\\SpecflowDotNetCoreVue.Spec.csproj",
+      "projectUniqueName": "C:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.Spec\\SpecflowDotNetCoreVue.Spec.csproj",
       "projectName": "SpecflowDotNetCoreVue.Spec",
-      "projectPath": "c:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.Spec\\SpecflowDotNetCoreVue.Spec.csproj",
+      "projectPath": "C:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.Spec\\SpecflowDotNetCoreVue.Spec.csproj",
       "packagesPath": "C:\\Users\\gbaril\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.Spec\\obj\\",
+      "outputPath": "C:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.Spec\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9426,8 +9426,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "c:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.csproj": {
-              "projectPath": "c:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.csproj"
+            "C:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.csproj": {
+              "projectPath": "C:\\Users\\gbaril\\source\\repos\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue\\SpecflowDotNetCoreVue.csproj"
             }
           }
         }

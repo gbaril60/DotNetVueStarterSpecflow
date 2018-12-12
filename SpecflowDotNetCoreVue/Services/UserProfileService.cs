@@ -16,7 +16,7 @@ namespace SpecflowDotNetCoreVue.Services
             _repository = repository;
         }
 
-        public object GetUserProfile(int salesId)
+        public UserProfileDto GetUserProfile(int salesId)
         {
             return _repository.GetAll().FirstOrDefault(u => u.SalesId == salesId);
         }

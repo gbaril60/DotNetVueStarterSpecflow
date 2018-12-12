@@ -20,9 +20,16 @@ namespace SpecflowDotNetCoreVue.Features.Login
         }
 
         [HttpGet]
-        public IActionResult LogIn(int salesId)
+        public IActionResult LogIn(int salesId, string password)
         {
-            return Ok();
+            var user = _service.GetUserProfile(salesId);
+
+            if (user != null && _service.IsUserPasswordValid(user, password))
+            {
+                return new OkObjectResult(user);
+            }
+
+            return Unauthorized();
         }
     }
 }

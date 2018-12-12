@@ -8,6 +8,6 @@ namespace SpecflowDotNetCoreVue.Tests.Login
 {
     public class LoginControllerTest
     {
-
+        
     }
 }
