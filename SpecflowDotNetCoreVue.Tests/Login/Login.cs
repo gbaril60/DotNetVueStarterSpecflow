@@ -1,41 +1,25 @@
-﻿using System;
-using System.Linq;
-using Xunit;
-using SpecflowDotNetCoreVue.Features.Login;
-using Microsoft.AspNetCore.Mvc;
-
 namespace SpecflowDotNetCoreVue.Tests.Login
 {
-    public class LoginControllerTest
+    using SpecflowDotNetCoreVue.Features.Login;
+    using SpecflowDotNetCoreVue.Services;
+    using SpecflowDotNetCoreVue.Dto;
+
+    public class Login
     {
-        [Fact(DisplayName = "It takes a sales id")]
-        public void ItReturnsAValue()
-        {
-            // Arrange
-            var controller = new LoginController();
+        private readonly LoginController _controller;
 
-            // Act
-            // Assert
-            controller.LogIn(12345);
-        }
-        [Fact(DisplayName = "It returns a something")]
-        public void ItReturnsSomething()
+        public Login()
         {
             // Arrange
-            var controller = new LoginController();
-            // Act
-            var res = controller.LogIn(12345);
+            var repository = new FakeRepository<UserProfileDto>();
+            var service = new UserProfileService(repository);
 
-        }
-        [Fact(DisplayName = "It returns an IActionResult")]
-        public void ItReturnsAnIActionResult()
-        {
-            // Arrange
-            var controller = new LoginController();
-            // Act
-            var res = controller.LogIn(12345);
-            // Assert
-            Assert.IsAssignableFrom<IActionResult>(res);
+             _controller = new LoginController(service);
+
+             repository.DataSet.Add(new UserProfileDto {
+                 Username = "TestUser@email.com",
+                 
+             });
         }
     }
 }
